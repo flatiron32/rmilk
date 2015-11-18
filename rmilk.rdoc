@@ -1,0 +1,5 @@
+= rmilk
+
+Generate this with
+    rmilk rdoc
+After you have described your command line interface
